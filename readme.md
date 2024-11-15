@@ -8,7 +8,7 @@ The global prompts are finally applied to adapt VLMs to unseen target domains. A
 
 ### Visualization
 
-![CAMs]/figures/CAMs.jpg)
+![CAMs](/figures/CAMs.jpg)
 
 ## Requirement
 
