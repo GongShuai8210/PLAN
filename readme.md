@@ -1,4 +1,4 @@
-# PLAM: Federated Domain Generalization via Prompt Learning and Aggregation
+# PLAN: Federated Domain Generalization via Prompt Learning and Aggregation
 The official code for the paper ***Federated Domain Generalization via Prompt Learning and Aggregation***.
 
  ![PLAN](/figures/PLAN.png)
