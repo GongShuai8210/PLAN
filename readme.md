@@ -1,5 +1,7 @@
 # PLAN: Federated Domain Generalization via Prompt Learning and Aggregation
 The official code for the paper ***Federated Domain Generalization via Prompt Learning and Aggregation***.
+Accepted by IEEE Transactions on Information Forensics and Security.
+. Official implementation.
 
  ![PLAN](/figures/PLAN.png)
 
